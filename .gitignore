@@ -1,0 +1,8 @@
+*.opensdf
+*.sdf
+ipch/
+x64/
+Release/
+Debug/
+Win32/
+obj/
