@@ -52,8 +52,9 @@ C# console project Call AgoraToken demo
 (6)make -f ms\nt.mak
 
 
+###Note
 
-    
+AgoraToken.dll如果要改为vs2015或者vs2017，参照上面的步骤，生成对应版本的openssl依赖库。
 
     
 
