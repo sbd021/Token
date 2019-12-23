@@ -1,4 +1,4 @@
-#AgoraToken
+# AgoraToken
 
 AgoraToken 是win32 C++ dll project，头文件AgoraToken.h再include中。生成AgoraToken.dll。
 
