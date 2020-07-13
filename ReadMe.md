@@ -49,7 +49,7 @@ C# console project Call AgoraToken demo
 
    执行ms\do_win64a.bat
 
-(6)make -f ms\nt.mak
+(6)nmake -f ms\nt.mak
 
 
 ###Note
