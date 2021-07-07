@@ -19,6 +19,7 @@ AgoraToken 是win32 C++ dll project，头文件AgoraToken.h再include中。生�
     const char* generateAgoraRtmTokenWithStringUid(const char* appid, const char* appCertificate, const char* uid, unsigned int privilegeExpiredTs);
 
 ## 新版本编译VC-WIN64A报错5.28.1
+Can't locate Win32/Console.pm in @INC (you may need to install the Win32::Console module)
 
 https://www.programmersought.com/article/93215566461/
 
