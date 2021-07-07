@@ -18,6 +18,11 @@ AgoraToken 是win32 C++ dll project，头文件AgoraToken.h再include中。生�
 
     const char* generateAgoraRtmTokenWithStringUid(const char* appid, const char* appCertificate, const char* uid, unsigned int privilegeExpiredTs);
 
+## 新版本编译VC-WIN64A报错5.28.1
+
+https://www.programmersought.com/article/93215566461/
+
+把C:\Perl64\site\lib\ActivePerl路径下的Config.pm 第400行里面的数据注释掉（用#)
 
 
 ## TestAgoraToken
